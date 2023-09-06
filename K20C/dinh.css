@@ -1,0 +1,53 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+/*.phai{
+	width: 300px;
+	height: 300px;
+	background: #e7e7e7;
+	border: 1px solid #000;
+	float: right;
+}*/
+.tong{
+	width: 500px;
+	height: 1000px;
+	margin-top: 50px;
+	
+}
+.tong .cb1{
+	width: 500px;
+	height: 180px;
+	margin-bottom: 15px;
+	overflow: auto;
+	display: block;
+}
+.tong .cb1 .a1 img{
+	width: 150px;
+	height: 100px;
+	float: left;
+	margin-right: 10px;
+}
+.tong .cd .td{
+	width: 300px;
+	height: 180px;
+	float: right;
+	font-family: tahoma;
+	font-size: 20px;
+	line-height: 20px;
+}
+.tong .cb1 .td:hover{
+	color: red;
+}
+.tong .cb1 {
+width: 580px;
+height: 100px;
+background: #e7e7e7;
+border: 1px solid #000;
+float: left;
+margin-bottom: 10px;
+margin-left: 300px	;
+}
+.@font-face{
+	src:url()
+}

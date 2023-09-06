@@ -1,0 +1,56 @@
+*{
+	box-sizing: border-box;
+
+}
+.container::after{
+	content: "";
+	clear: both;
+	display: table;
+
+}
+.trai{
+	width:	20%;
+
+}
+.giua{
+	width:	50%;
+}
+.phai{
+	width:	30%;
+}
+.tong{
+	float: left;
+	padding: 20px;
+}
+.trai a img{
+	width: 50%;
+}
+.giua a img{
+	width: 100%;
+}
+.giua .nd{
+	font-family: tahoma;
+	font-size: 13px;
+	line-height: 20px;
+	font-weight: bold;
+}
+.container .nd:hover{
+	color: blue;
+}
+.trai a img{
+	width:	250px;
+	height: 150px;
+}
+.phai a img{
+	width: 50%;
+}
+.phai .cm{
+	width: 300px;
+	height: 150px;
+
+}
+.phai .cm .nd{
+	float: left;
+	width: 100px;
+	height: 150px;
+}

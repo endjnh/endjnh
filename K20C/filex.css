@@ -1,0 +1,21 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.to{
+	width: 900px;
+	background: lightblue;
+	margin: auto;
+	display: flex;
+/*	flex-direction: row;
+	flex-wrap: wrap;*/
+	justify-content: space-around;
+
+}
+.k1{
+	background: yellowgreen;
+	padding: 15px;
+	border: 1px solid black;
+	margin: 10px;
+	border-radius: 8px;
+}

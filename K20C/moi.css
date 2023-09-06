@@ -1,0 +1,23 @@
+*{
+	box-sizing: border-box;
+}
+.tong{
+	width: 100px;
+	height: 0 auto;
+}
+.dau{
+	font-size: 13px;
+	height: 100px;
+	background: purple;
+	border: 1px solid purple;
+	margin-bottom: 10px;
+}
+h1{
+	color: white;
+	background: purple;
+	font-size: 30px;
+}
+.phai{
+	float: right;
+	margin-right: 50px;
+}
